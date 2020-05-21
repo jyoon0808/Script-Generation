@@ -14,3 +14,5 @@ With the scores, we can select sentences that contain diphones with high frequen
 
 
 This script generator can enhance the accuracy of TTS models.
+
+* a file with bunch of Korean sentences and the results of each python file are in the release section.
